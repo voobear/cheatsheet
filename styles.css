@@ -1,0 +1,54 @@
+body {
+    max-width: fit-content;
+    margin:auto;
+    border: 10px;
+    content: inherit;
+    font-family: Arial, sans-serif;
+    background-color: blue;
+    color: white;
+}
+
+
+table {
+    margin: auto;
+    padding-left: 20;
+    padding-right: 20;
+    padding-top: 20;
+    padding-bottom: 20;
+    border-collapse: separate;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: white;
+    text-align: center;
+    border-spacing: 4px;
+}
+
+.titleB {
+    text-align: center;
+}
+
+.titleH {
+    text-align: center;
+}
+
+.css {
+    text-align: center;
+}
+
+.java {
+    text-align: center;
+}
+
+.sql {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+
+}
+
+
